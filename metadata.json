@@ -1,0 +1,6 @@
+{
+  "name": "MEDIA RQA",
+  "description": "Professional high-speed media file transfer, asset review, and collaborative post-production workflow platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
